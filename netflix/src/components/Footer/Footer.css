@@ -1,0 +1,59 @@
+
+.foot{
+    color:rgb(193, 201, 201);
+}
+.firstlist li{
+font-size: small;
+color: rgb(190, 191, 193);
+}
+.secondlist,.thirdlist,.fourthlist{
+        color: rgb(190, 191, 193);
+        font-size: small;
+}
+.firstlist,.secondlist,.thirdlist,.fourthlist li{
+    padding-top: 0px;
+}
+.iconsm{
+      padding: 0;
+    margin: 0;
+    margin-left: 255px;
+    /* padding-bottom: 0%; */
+}
+.iconsm ul{
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    /* justify-content: center; */
+    list-style-type: none;
+    
+}
+.iconsm ul li{
+    margin: 8px;
+}
+.words{
+    padding-top: 0px;
+    margin-top: -45px;
+    display: flex;
+    justify-content: center;
+    margin-left: 70px;
+}
+.words div ul{
+margin: 70px;
+}
+.words ul li{
+list-style-type: none;
+
+}
+.service{
+    padding-left: 1px;
+    padding-right: 1px;
+    text-align: center;
+    border: 1px solid rgb(190, 191, 193);
+        color: rgb(190, 191, 193);
+    padding-top: 4px;
+    margin-top: 6px;
+    margin-bottom: 3px;
+    padding-bottom: 3px;  
+        font-size: small;
+
+}

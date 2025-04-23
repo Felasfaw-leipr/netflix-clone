@@ -1,0 +1,39 @@
+.outer-container{
+background-color:black;
+    position: sticky;top: 0;
+display: flex;
+    justify-content: space-between;
+}
+
+.nav-container{
+    color: rgb(244, 217, 217);
+    width: 70%;
+}
+.nav-container ul li{
+    margin: 12px;
+}
+.nav-container ul{
+    display: flex;
+    list-style-type: none;
+    margin-left: 15px;
+    /* margin-right: 60px; */
+    padding-top:20px ;
+}
+.nav-container img{
+height:50px ;
+}
+
+.icon .search {
+    color: aliceblue;
+display: flex;
+margin: 2px;
+}
+.icon{
+ 
+    justify-content: right;
+}
+.icon ul{
+   justify-content: right;
+    display: flex;
+    padding-top: 25px;
+}
