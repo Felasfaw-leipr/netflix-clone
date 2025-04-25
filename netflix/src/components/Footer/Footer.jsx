@@ -61,6 +61,7 @@ function Footer() {
 </div>
 
 </div>
+  <div className='acknoledegment'><small>RE-DEVELOPED BY:Felasaw Wosen</small></div>
     </footer>
     </>
   )

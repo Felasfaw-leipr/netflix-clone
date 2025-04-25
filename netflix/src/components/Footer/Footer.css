@@ -57,3 +57,11 @@ list-style-type: none;
         font-size: small;
 
 }
+.acknoledegment{
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(190, 191, 193);
+    font-size: small;
+    margin-top: -20px;
+    margin-bottom: 10px;
+}
